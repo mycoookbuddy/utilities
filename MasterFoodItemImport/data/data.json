@@ -1,0 +1,15 @@
+[
+  {
+    "name": "Imported Food 1",
+    "cusines": ["Marathi", "Gujrati"],
+    "mealTypes": ["Breakfast", "Lunch"],
+    "type": "Non Veg"
+  },
+  {
+    "name": "Imported Food 2",
+    "cusines": ["Marathi", "Gujrati"],
+    "mealTypes": ["Lunch", "Dinner"],
+    "type": " Non Veg"
+  }
+
+]
