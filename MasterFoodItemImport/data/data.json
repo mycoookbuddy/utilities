@@ -1,14 +1,14 @@
 [
   {
-    "name": "Imported Food 1",
+    "name": "Imported Food 3",
     "cusines": ["Marathi", "Gujrati"],
-    "mealTypes": ["Breakfast", "Lunch"],
+    "eatingTypes": ["Breakfast", "Lunch"],
     "type": "Non Veg"
   },
   {
-    "name": "Imported Food 2",
+    "name": "Imported Food 4",
     "cusines": ["Marathi", "Gujrati"],
-    "mealTypes": ["Lunch", "Dinner"],
+    "eatingTypes": ["Lunch", "Dinner"],
     "type": " Non Veg"
   }
 
