@@ -10,7 +10,7 @@ build/
 .DS_Store
 
 # Firebase private key (never commit this)
-FoodItemMaster/serviceAccountKey.json
+serviceAccountKey.json
 
 # Optional: OS or editor specific files
 *.swp
