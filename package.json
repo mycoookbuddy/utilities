@@ -1,0 +1,16 @@
+{
+  "name": "firestore-export-tool",
+  "version": "1.0.0",
+  "description": "Secure Firestore to Excel import/export tool using exceljs",
+  "main": "exportCollectionPrompt.js",
+  "scripts": {
+    "export": "node export.js",
+    "import": "node import.js"
+  },
+  "author": "WhatToCook",
+  "license": "MIT",
+  "dependencies": {
+    "firebase-admin": "^13.3.0",
+    "exceljs": "^4.3.0"
+  }
+}
